@@ -126,6 +126,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "nocode-flow"
+    }
+  },
+  "defaultProject": "nocode-flow",
+  "cli": {
+    "analytics": "e3263f49-d4e7-4ddb-aa8b-f395dced883f"
+  }
 }
