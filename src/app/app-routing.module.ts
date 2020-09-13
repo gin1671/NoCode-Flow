@@ -7,6 +7,11 @@ const routes: Routes = [
     pathMatch: 'full',
     loadChildren: () => import('./top/top.module').then((m) => m.TopModule),
   },
+  {
+    path: 'create',
+    loadChildren: () =>
+      import('./create/create.module').then((m) => m.CreateModule),
+  },
 ];
 
 @NgModule({
