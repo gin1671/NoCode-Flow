@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "nocode-flow": {
+      "hosting": {
+        "nocode-flow": [
+          "nocode-flow"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "nocode-flow"
+  }
+}
