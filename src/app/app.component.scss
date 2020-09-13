@@ -8,4 +8,9 @@ footer {
   border-top: 1px solid #000;
   background: #fafafa;
   margin-top: 80px;
+  p {
+    font-size: 12px;
+    text-align: center;
+    color: rgba($color: #000000, $alpha: 0.6);
+  }
 }
